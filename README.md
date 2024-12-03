@@ -6,3 +6,6 @@ We conduct the first empirical investigation into QLoRA, focusing specifically o
 * ##### How to set up the Anaconda environment
   1. `conda env create -n qlora -f conda_environment.yml`
   2. `conda activate qlora`
+
+* ##### Datasets
+  The datasets for the evaluation can be found [here](https://huggingface.co/datasets/doejn771/code_x_glue_ct_code_to_text_java_python)
